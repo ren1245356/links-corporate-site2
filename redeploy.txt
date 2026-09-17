@@ -1,0 +1,1 @@
+Trigger Cloudflare Pages redeploy after BLOG_KV and BLOG_ADMIN_PASSWORD settings.
